@@ -1,2 +1,3 @@
 # memori
 pithon proekt
+jkj
