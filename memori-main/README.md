@@ -1,0 +1,3 @@
+# memori
+pithon proekt
+jkj
